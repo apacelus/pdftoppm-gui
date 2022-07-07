@@ -1,2 +1,4 @@
 # pdftoppm-gui
-GUI tool to convert pdfs to images
+GUI tool for converting pdfs to images. Uses the pdftoppm cli tool.
+## Installation
+*to-do*
