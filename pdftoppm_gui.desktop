@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Pdf converter
+Exec=pdftoppm_gui
+Terminal=false
+Type=Application
+Icon=pdftoppm_gui
+Comment=A gui wrapper for the cli tool pdftoppm. Converts a pdf into individual png pages
+Categories=Utility;
